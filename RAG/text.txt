@@ -1,0 +1,11 @@
+1. INTRODUCTION
+Flexible and wearable electronics require conductors that can bend, stretch, and retain
+conductivity, a requirement that rigid metal wires and foils cannot fulfill effectively
+when integrated into biological interfaces. Conducting fibers, fabricated via routes
+such as solution spinning, coating, and electrospinning, are being rapidly developed to
+meet this need. In biomedical applications, particularly peripheral nerve regeneration,
+the specific challenge extends beyond basic conductivity to encompass fiber alignment.
+Moving from randomly oriented electrospun fiber mats to uniaxially aligned arrays provides directional conductivity and topographical cues that guide Schwann cell migration
+and axonal outgrowth. This report documents the experimental work completed thus far
+on the electrospinning of polycaprolactone (PCL) solutions to produce randomly oriented nanofibers, alongside the refined methodology for upcoming polymer blend trials
+(PLA/PCL) and solvent-variation trials using Trifluoroethanol (TFE) and Acetone mixtures
